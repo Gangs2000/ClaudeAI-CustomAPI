@@ -21,6 +21,9 @@ Each exposed API will registed as a Tool in MCP server. We have to do a MCP serv
 
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/0dadf86a-593d-4fa3-aab1-6229ea694864" />
 
+**Below is an image that shows Integration of Custom API available and showing "RUNNING" status**
+
+<img width="656" alt="image" src="https://github.com/user-attachments/assets/9f6ee439-822f-415f-8140-b3d8f910dd8d" />
 
 To see the demo video please visit my LinkedIn post :
 
